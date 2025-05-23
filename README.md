@@ -10,5 +10,10 @@ Make sure you're logged into Figma and have view access.
 
 ---
 
+## 🖼️ Design Previews
+
+### 🏠 Self Family Tree 
+![Self Family Tree](assets/image.png)
+
 Created by: Harsh Saini
 - Tool: Figma
